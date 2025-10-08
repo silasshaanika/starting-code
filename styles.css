@@ -1283,8 +1283,10 @@ background-color: var(--light-gray);
 
 .instruction-section strong {
   color: var(--primary);
+  
   font-weight: 600;
 }
+
 
 .instruction-section p:last-child {
   background-color: rgba(67, 97, 238, 0.1);
